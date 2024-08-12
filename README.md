@@ -23,5 +23,16 @@ My nightime routine includes
 
 ## My philosiphy
 
-*With great power, comes great responsibility*
-_Life is like a box of chocolates, you never know what your gonna get_
+*Never give up*
+_Knowledge is power_
+
+## Favorite Quotes
+
+With great **power**, comes great **responsibility**
+__Life__ is like a box of chocolates, you __never__ know what your gonna get
+
+## My favorite website
+
+[Yamaha Motorsports](https://yamahamotorsports.com/)
+
+
