@@ -2,8 +2,14 @@
 ---
 ---
 ## Summary
+
+[I have a new home]:https://powersports.honda.com/
+
 I am Hunter Hargett. I plan on being a Software Engineer and working with AI. I want to go to either Rose-Hulman or Purdue University for computer science. I have a sister who's 21 and studies pre-medical at Murray State. 
 
+[1]: https://en.wikipedia.org/wiki/Elon_Musk 
+[2]: https://en.wikipedia.org/wiki/Mark_Zuckerberg 
+[3]: https://en.wikipedia.org/wiki/Donald_Trump 
 Hobbies
 -
 
@@ -33,6 +39,13 @@ __Life__ is like a box of chocolates, you __never__ know what your gonna get
 
 ## My favorite website
 
-[Yamaha Motorsports](https://yamahamotorsports.com/)
+[Yamaha Motorsports](https://yamahamotorsports.com/ "Yamaha Motorsports")
+[I'm being tagged][I have a new home]
+
+## Persons of Interest
+
+[Elon Musk][1]<br>
+[Mark Zuckerburg][2]<br>
+[Donald Trump][3]<br>
 
 
