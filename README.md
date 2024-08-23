@@ -45,7 +45,20 @@ __Life__ is like a box of chocolates, you __never__ know what your gonna get
 ## Persons of Interest
 
 [Elon Musk][1]<br>
+<kbd>
+<img src="img/elon.jpg" height=100px width=100px></kbd><br>
 [Mark Zuckerburg][2]<br>
+<kbd>
+<img src="img/mark.jpg" height=100px width=100px></kbd><br>
 [Donald Trump][3]<br>
+<kbd>
+<img src="img/trump.jpg" height=100px width=100px></kbd><br>
 
+## CS Terms
 
+| Term | Definition |
+|:-| --- |
+| Machine Learning | the use and development of computer systems that are able to learn and adapt without following explicit instructions |
+| Computer | an electronic device for storing and processing data |
+| Variable | an element, feature, or factor that is liable to vary or change |
+| Function | work or operate in a proper or particular way |
